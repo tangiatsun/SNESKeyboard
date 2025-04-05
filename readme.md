@@ -1,4 +1,4 @@
-# snes
+# SNES controller
 
 Demo Video: https://youtu.be/v019ZV94M7c
 *A short description of the keyboard/project*
