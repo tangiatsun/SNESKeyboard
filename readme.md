@@ -1,7 +1,6 @@
 # snes
 
-![snes](imgur.com image replace me!)
-
+Demo Video: https://youtu.be/v019ZV94M7c
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Tangia Sun](https://github.com/tangiatsun)
